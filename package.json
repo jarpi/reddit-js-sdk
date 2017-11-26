@@ -12,5 +12,8 @@
     "sdk"
   ],
   "author": "@jarpi",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
