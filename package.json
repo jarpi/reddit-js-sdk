@@ -1,6 +1,6 @@
 {
   "name": "reddit-js-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reddit api bindings in Javascript",
   "main": "index.js",
   "scripts": {
