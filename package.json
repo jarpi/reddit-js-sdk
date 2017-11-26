@@ -20,5 +20,16 @@
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "mocha": "^4.0.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarpi/reddit-sdk-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jarpi/reddit-sdk-js/issues"
+  },
+  "homepage": "https://github.com/jarpi/reddit-sdk-js#readme"
 }
