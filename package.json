@@ -1,6 +1,6 @@
 {
   "name": "reddit-js-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reddit api bindings in Javascript",
   "main": "index.js",
   "scripts": {
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarpi/reddit-sdk-js.git"
+    "url": "git+https://github.com/jarpi/reddit-js-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/jarpi/reddit-sdk-js/issues"
+    "url": "https://github.com/jarpi/reddit-js-sdk/issues"
   },
-  "homepage": "https://github.com/jarpi/reddit-sdk-js#readme"
+  "homepage": "https://github.com/jarpi/reddit-js-sdk#readme"
 }
