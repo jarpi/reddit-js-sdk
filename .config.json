@@ -2,7 +2,7 @@
   "authBaseUrl": "https://www.reddit.com/api",
   "authEndpoint": "/v1/access_token",
   "apiBaseUrl": "https://oauth.reddit.com",
-  "programmingBasePath": "/r/programming.json",
+  "subredditBasePath": "/r",
   "meBasePath": "/api/v1/me",
   "defaultUserAgent": "`Linux/UbuntuX64:reddit_nodejs_bot:v0.1 (by /u/${process.env.BOT_USERNAME})`"
 }

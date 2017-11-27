@@ -14,7 +14,7 @@ const redditClient = require('../../index.js')(opts)
 describe('Basic Request', function(){
     it('Query /r/programming.json', function(done) {
         const queryParams = {'limit': 100}
-        redditClient.getProgrammingRedditPosts(queryParams).should.be.fulfilled
+        redditClient.getSubRedditPosts(queryParams, 'programming.json').should.be.fulfilled
         .notify(done)
     })
 })
